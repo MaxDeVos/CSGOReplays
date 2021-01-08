@@ -1,3 +1,2 @@
 # CSGOReplays
-CSGO Replays
-contains the CSGO Replays
+GOTV Demos of matches played during the **Dangerous Men Wingman Tournament**
